@@ -1,2 +1,3 @@
-# Sudoku-Verifier
-Second proyect 
+# Second Eval First Project: Sodoku with pthreads
+---
+
